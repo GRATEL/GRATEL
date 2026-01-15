@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/olajidefavour45" target="blank"><img src="https://img.shields.io/twitter/follow/olajidefavour45?logo=twitter&style=for-the-badge" alt="olajidefavour45" /></a> </p>
 
-- 🔭 I’m currently working on **My School Projects**
+- 🔭 I’m currently working on ** Projects**
 
 - 💬 Ask me about **React, vue , node js and java**
 
