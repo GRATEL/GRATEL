@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/olajidefavour45" target="blank"><img src="https://img.shields.io/twitter/follow/olajidefavour45?logo=twitter&style=for-the-badge" alt="olajidefavour45" /></a> </p>
 
-- 🔭 I’m currently working on ** Projects**
+- 🔭 I’m currently working on **Projects**
 
-- 💬 Ask me about **React, vue , node js and java**
+- 💬 Ask me about **React, .net, python,c#, js and java**
 
-- 📫 How to reach me **folajide772@gmail.com**
+- 📫 How to reach me **folajideusa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
