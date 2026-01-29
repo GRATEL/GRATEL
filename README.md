@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Favour Olajide</h1>
-<h3 align="center">A passionate frontend developer from Nigeria but lives in the U.S the U.S</h3>
+<h3 align="center">Web Developer and Cloud Engineer with DevOps experience.
+I build modern web apps and focus on scalable, automated, and reliable systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gratel&label=Profile%20views&color=0e75b6&style=flat" alt="gratel" /> </p>
 
