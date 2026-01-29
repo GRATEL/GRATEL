@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gratel&label=Profile%20views&color=0e75b6&style=flat" alt="gratel" /> </p>
 
-<p align="left"> <a href="https://twitter.com/olajidefavour45" target="blank"><img src="https://img.shields.io/twitter/follow/olajidefavour45?logo=twitter&style=for-the-badge" alt="olajidefavour45" /></a> </p>
-
--  Ask me about **React, .net, python,c#, js and java**
 
 -  How to reach me **folajideusa@gmail.com**
 
