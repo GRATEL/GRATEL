@@ -6,7 +6,7 @@ I build modern web apps and focus on scalable, automated, and reliable systems.<
 
 
 -  How to reach me **folajideusa@gmail.com**
--  -  How to reach me **www.thefavourolajide.com**
+-  How to reach me **www.thefavourolajide.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
